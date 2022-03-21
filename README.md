@@ -28,27 +28,25 @@ Debemos tener en cuenta que el proceso de construcción de los modelos debe ser 
 
 ### Tech Stack
 
-- Pandas
+- [Pandas](https://pandas.pydata.org/)
 
-- Numpy
+- [NumPy](https://numpy.org/)
 
-- RegEx
+- [RegEx](https://docs.python.org/3/library/re.html)
 
-- Pylab
+- [Matplotlib](https://matplotlib.org/)
 
-- Matplotlib
+- [Seaborn](https://seaborn.pydata.org/)
 
-- Seaborn
+- [H2O](https://docs.h2o.ai/h2o/latest-stable/h2o-py/docs/intro.html)
 
-- H2O
+- [XGBoost](https://xgboost.readthedocs.io/en/stable/#)
 
-- XGBoost
+- [SciPy](https://scipy.org/)
 
-- Scipy
+- [Statsmodels](https://www.statsmodels.org/stable/index.html)
 
-- Statsmodels
-
-- Sklearn
+- [Scikit-learn](https://scikit-learn.org/stable/)
 
 
 
