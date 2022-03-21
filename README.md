@@ -21,7 +21,7 @@ A partir de ahí, se sigue un proceso cuyas etapas principales son las siguiente
 
 3. **Transformación de los datos**: en esta etapa se lleva a cabo aquellas transformaciones que van más allá de la limpieza de los datos como tal y también será una etapa muy importante a la hora de mejorar la precisión de los modelos.
 
-4. **Modelos de machine learning**: en esta etapa se construyen diferentes modelos de regresión y se compara su rendimiento para tratar de minimizar el error en las predicciones de los precios.
+4. **Modelos de machine learning**: finalmente se construyen diferentes modelos de regresión y se compara su rendimiento para tratar de minimizar el error en las predicciones de los precios.
 
 Debemos tener en cuenta que el proceso de construcción de los modelos debe ser completamente empírico, por lo que se trabaja bajo una metodología de prueba y error. Es cierto que el conocimiento experto del problema puede ayudar en estos casos, pero no debemos dar nada por sentado, sino probar diferentes opciones y ajustes para comprobar qué es lo que nos ofrece un mayor rendimiento. Así, a menudo no seguiremos estrictamente el orden anteriormente descrito y volveremos a etapas anteriores para hacer ajustes que puedan mejorar nuestros resultados.
 
