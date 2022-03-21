@@ -11,7 +11,7 @@ El objetivo es construir un modelo de machine learning que sea capaz de predecir
 
 Se parte de un dataset en el que se recoge una cantidad importante de datos acerca de alojamientos disponibles en Airbnb, concretamente de aquellos ubicados en Ámsterdam. En este dataset está disponible el precio real de los alojamientos (taget a predecir), junto con el resto de datos de cada uno de ellos. Este es el conjunto de datos que se utiliza para el entrenamiento y evaluación del ajuste de los diferentes modelos desarrollados.
 
-Adicionalmente, existe otro dataset en el que se incluyen los datos referentes a otros alojamientos, pero no el precio de cada uno de ellos. El precio de estos alojamientos es lo que deberemos predecir (aunque en realidad estos son solo el 50% de los datos sobre los que se evaluan los modelos en la competición, quedando el otro 50% en privado y reservado a los administradores de la competición hasta el momento en que se descubren los resultados finales, los cuales sí que se calculan sobre el 100% de los precios a predecir).
+Adicionalmente, se dispone de otro dataset en el que se incluyen los datos referentes a otros alojamientos, pero no el precio de cada uno de ellos. El precio de estos alojamientos es lo que deberemos predecir (aunque en realidad estos son solo el 50% de los datos sobre los que se evaluan los modelos en la competición, quedando el otro 50% en privado y reservado a los administradores de la competición hasta el momento en que se descubren los resultados finales, los cuales sí que se calculan sobre el 100% de los precios a predecir).
 
 A partir de ahí, se sigue un proceso cuyas etapas principales son las siguientes:
 
