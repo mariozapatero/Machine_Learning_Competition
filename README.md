@@ -1,3 +1,5 @@
+<img src= "data/z_portada.png">
+
 # Machine Learning Competition
 
 Este proyecto se vincula a una competición de Kaggle desarrollada en el entorno educativo de [Ironhack](https://www.ironhack.com/en).
